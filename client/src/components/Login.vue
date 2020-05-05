@@ -39,8 +39,8 @@
     <!--footer-->
     <div class="footer">
       <p>
-        &copy; Trang Dang nhap Ngan Hang abc | Design by
-        <a href="http://w3layouts.com">W3layouts</a>
+        &copy; Trang Dang nhap Ngan Hang wWw | Design by Team wWw
+        
       </p>
     </div>
     <!--//footer-->
